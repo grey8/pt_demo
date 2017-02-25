@@ -47,19 +47,6 @@
             <version>1.7.7</version>
         </dependency>
 
-        <!--<dependency>-->
-        <!--<groupId>org.apache.logging.log4j</groupId>-->
-        <!--<artifactId>log4j-core</artifactId>-->
-        <!--<version>${org.apache.logging.log4j.version}</version>-->
-        <!--</dependency>-->
-        <!--<dependency>-->
-        <!--<groupId>org.apache.logging.log4j</groupId>-->
-        <!--<artifactId>log4j-api</artifactId>-->
-        <!--<version>${org.apache.logging.log4j.version}</version>-->
-        <!--</dependency>-->
-
-        <!--2.数据库的相关配置-->
-        <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
